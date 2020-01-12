@@ -1,7 +1,7 @@
 :: ENTER PATH WHERE THE InitScript.py IS LOCATED.
 cd <PATH>
 
-python script.py %1 %2
+python InitScript.py %1 %2
 
 :: ENTER PATH WHERE YOUR PROJECTS ARE SAVED LIKE THE EXAMPLE
 :: e.g. C:\Users\<USERNAME>\Documents\Projects
