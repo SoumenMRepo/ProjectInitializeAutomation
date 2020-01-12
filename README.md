@@ -14,7 +14,7 @@ cd ProjectInitializeAutomation
 pip install -r requirements.txt
 ```
 
-Then edit the two files **create.bat** (inside batch-folder) and **InitScripty.py** where necessary (marked and described with comments).
+Then edit the two files **create.bat** and **InitScripty.py** where necessary (marked and described with comments).
 
 **IMPORTANT**: Now you have to put the path of the **create.bat**-file (e.g. C:\Users\...\ProjectInitializeAutomation\batch) to your SYSTEM-PATH. Here is a short instruction how to do this:
 
