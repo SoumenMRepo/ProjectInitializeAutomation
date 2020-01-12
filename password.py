@@ -1,0 +1,1 @@
+pwd = "YOUR PASSWORD OF GITHUB" # put your passowrd here
