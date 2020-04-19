@@ -1,18 +1,18 @@
 import os
 import sys
 from github import Github
-from password import pwd # here i have taken the password from another file for secrecy
+#from password import pwd # here i have taken the password from another file for secrecy
 
 # enter your github username
-git_username = "<USERNAME>"
+git_username = "SoumenMRepo"
 
 # imported password string
-git_password = pwd
+git_password = "Qualcomm@2020"
 
 # enter the complete path to your location where you want to save your projects
 # e.g. C:/Users/<USERNAME>/Documents/Projects/
 ## !!!YOU MUST SEPERATE FOLDERS WITH NORMAL-SLASHES NOT BACK-SLASHES AND AT THE END PUT A SLASH LIKE IN THE EXAMPLE!!!
-path = "<PATH>"
+path = "C:/Users/Soumen/Documents/MyProjects/"
 
 def create_folder_and_repo():
     folder_name = str(sys.argv[1])

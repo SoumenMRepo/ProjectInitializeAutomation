@@ -1,1 +1,1 @@
-pwd = "YOUR PASSWORD OF GITHUB" # put your passowrd here
+pwd = "Qualcomm@2020" # put your passowrd here
